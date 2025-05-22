@@ -178,5 +178,29 @@
         "title": "Security Weekly Podcast Network (Audio)",
         "description": "Welcome to the Security Weekly Podcast Network, your all-in-one source for the latest in cybersecurity! This feed features a diverse lineup of shows, including Application Security Weekly, Business Security Weekly, Paul's Security Weekly, Enterprise Security Weekly, and Security Weekly News. Whether you're a cybersecurity professional, business leader, or tech enthusiast, we cover all angles of the cybersecurity landscape.\n\nTune in for in-depth panel discussions, expert guest interviews, and breaking news on the latest hacking techniques, vulnerabilities, and industry trends. Stay informed and secure with the most trusted voices in cybersecurity!",
         "type": "rss"
+    },
+    {
+        "url": "https://www.ncsc.gov.uk/api/1/services/v1/news-rss-feed.xml",
+        "title": "NCSC News Feed",
+        "description": "This includes feeds from news",
+        "type": "rss"
+    },
+    {
+        "url": "https://www.cyber.gc.ca/api/cccs/rss/v1/get?feed=alerts_advisories&lang=en",
+        "title": "Alerts and advisories",
+        "description": null,
+        "type": "atom"
+    },
+    {
+        "url": "https://www.darkreading.com/rss.xml",
+        "title": "darkreading",
+        "description": "Public RSS feed",
+        "type": "rss"
+    },
+    {
+        "url": "https://feeds.feedburner.com/GoogleOnlineSecurityBlog",
+        "title": "Google Online Security Blog",
+        "description": "The latest news and insights from Google on security and safety on the Internet.",
+        "type": "atom"
     }
 ]
