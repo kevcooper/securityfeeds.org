@@ -190,5 +190,11 @@
         "title": "Google Online Security Blog",
         "description": "The latest news and insights from Google on security and safety on the Internet.",
         "type": "atom"
+    },
+    {
+        "url": "https://www.theguardian.com/technology/data-computer-security/rss",
+        "title": "Data and computer security | The Guardian",
+        "description": "Latest news and features from theguardian.com, the world's leading liberal voice",
+        "type": "rss"
     }
 ]
