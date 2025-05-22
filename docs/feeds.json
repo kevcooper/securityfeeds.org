@@ -196,5 +196,23 @@
         "title": "Data and computer security | The Guardian",
         "description": "Latest news and features from theguardian.com, the world's leading liberal voice",
         "type": "rss"
+    },
+    {
+        "url": "https://www.ncsc.govt.nz/news/category/cyber-threat-reports/rss",
+        "title": "News - In category Cyber Threat Reports",
+        "description": "",
+        "type": "rss"
+    },
+    {
+        "url": "https://www.ncsc.govt.nz/news/category/cyber-security-alerts/rss",
+        "title": "News - In category Cyber Security Alerts",
+        "description": "",
+        "type": "rss"
+    },
+    {
+        "url": "https://www.ncsc.govt.nz/news/category/security-advisories/rss",
+        "title": "News - In category Security Advisories",
+        "description": "",
+        "type": "rss"
     }
 ]
