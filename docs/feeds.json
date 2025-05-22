@@ -1,27 +1,15 @@
 [
     {
+        "url": "https://arstechnica.com/security/feed/atom/",
+        "title": "Security &#8211; Ars Technica",
+        "description": "Serving the Technologist since 1998. News, reviews, and analysis.",
+        "type": "atom"
+    },
+    {
         "url": "https://arstechnica.com/security/feed/",
         "title": "Security &#8211; Ars Technica",
         "description": "Serving the Technologist since 1998. News, reviews, and analysis.",
         "type": "rss"
-    },
-    {
-        "url": "https://arstechnica.com/security/feed/atom/",
-        "title": "Security &#8211; Ars Technica",
-        "description": null,
-        "type": "atom"
-    },
-    {
-        "url": "https://arstechnica.com/tag/security/feed/",
-        "title": "security &#8211; Ars Technica",
-        "description": "Serving the Technologist since 1998. News, reviews, and analysis.",
-        "type": "rss"
-    },
-    {
-        "url": "https://arstechnica.com/tag/security/feed/atom/",
-        "title": "security &#8211; Ars Technica",
-        "description": null,
-        "type": "atom"
     },
     {
         "url": "https://eclypsium.com/feed/",
