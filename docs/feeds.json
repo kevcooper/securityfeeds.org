@@ -30,6 +30,12 @@
         "type": "rss"
     },
     {
+        "url": "https://portswigger.net/blog/rss",
+        "title": "PortSwigger Blog",
+        "description": null,
+        "type": "rss"
+    },
+    {
         "url": "https://portswigger.net/research/rss",
         "title": "PortSwigger Research",
         "description": null,
