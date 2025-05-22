@@ -160,5 +160,11 @@
         "title": "Wiz Blog: Security | RSS feed",
         "description": "Guides, announcements, and articles about Cloud Security and the Wiz platform.",
         "type": "rss"
+    },
+    {
+        "url": "https://hntvaudio.libsyn.com/rss",
+        "title": "Security Weekly News (Audio)",
+        "description": "Concise, bi-weekly reviews of the most significant security stories, including malware, threats, government actions, and other cybersecurity topics. Hosted by Dr. Doug White. Co hosts: Josh Marpet, Aaran Leyland.",
+        "type": "rss"
     }
 ]
