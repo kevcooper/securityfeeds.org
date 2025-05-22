@@ -154,5 +154,11 @@
         "title": "The Hacker News",
         "description": "Most trusted, widely-read independent cybersecurity news source for everyone; supported by hackers and IT professionals — Send TIPs to admin@thehackernews.com",
         "type": "rss"
+    },
+    {
+        "url": "https://www.wiz.io/feed/rss.xml",
+        "title": "Wiz Blog | RSS feed",
+        "description": "Guides, announcements, and articles about Cloud Security and the Wiz platform.",
+        "type": "rss"
     }
 ]
