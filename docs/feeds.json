@@ -156,8 +156,8 @@
         "type": "rss"
     },
     {
-        "url": "https://www.wiz.io/feed/rss.xml",
-        "title": "Wiz Blog | RSS feed",
+        "url": "https://www.wiz.io/feed/tag/security/rss.xml",
+        "title": "Wiz Blog: Security | RSS feed",
         "description": "Guides, announcements, and articles about Cloud Security and the Wiz platform.",
         "type": "rss"
     }
