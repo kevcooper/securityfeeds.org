@@ -1,0 +1,152 @@
+[
+    {
+        "url": "https://arstechnica.com/security/feed/",
+        "title": "Security &#8211; Ars Technica",
+        "description": "Serving the Technologist since 1998. News, reviews, and analysis.",
+        "type": "rss"
+    },
+    {
+        "url": "https://arstechnica.com/security/feed/atom/",
+        "title": "Security &#8211; Ars Technica",
+        "description": null,
+        "type": "atom"
+    },
+    {
+        "url": "https://arstechnica.com/tag/security/feed/",
+        "title": "security &#8211; Ars Technica",
+        "description": "Serving the Technologist since 1998. News, reviews, and analysis.",
+        "type": "rss"
+    },
+    {
+        "url": "https://arstechnica.com/tag/security/feed/atom/",
+        "title": "security &#8211; Ars Technica",
+        "description": null,
+        "type": "atom"
+    },
+    {
+        "url": "https://eclypsium.com/feed/",
+        "title": "Eclypsium | Supply Chain Security for the Modern Enterprise",
+        "description": "Supply Chain Security for the Modern Enterprise",
+        "type": "rss"
+    },
+    {
+        "url": "https://portswigger.net/research/rss",
+        "title": "PortSwigger Research",
+        "description": null,
+        "type": "rss"
+    },
+    {
+        "url": "https://www.bleepingcomputer.com/feed/",
+        "title": "BleepingComputer",
+        "description": "BleepingComputer - All Stories",
+        "type": "rss"
+    },
+    {
+        "url": "https://www.cisa.gov/blog.xml",
+        "title": "CISA Blog",
+        "description": null,
+        "type": "rss"
+    },
+    {
+        "url": "https://www.cisa.gov/cybersecurity-advisories/all.xml",
+        "title": "All CISA Advisories",
+        "description": null,
+        "type": "rss"
+    },
+    {
+        "url": "https://www.cisa.gov/cybersecurity-advisories/ics-advisories.xml",
+        "title": "ICS Advisories",
+        "description": null,
+        "type": "rss"
+    },
+    {
+        "url": "https://www.cisa.gov/news.xml",
+        "title": "CISA News",
+        "description": null,
+        "type": "rss"
+    },
+    {
+        "url": "https://www.cyber.gov.au/rss/advisories",
+        "title": "ASD's ACSC - Advisories RSS",
+        "description": "ACSC - Recent Advisories",
+        "type": "rss"
+    },
+    {
+        "url": "https://www.cyber.gov.au/rss/alerts",
+        "title": "ASD's ACSC - Alerts RSS",
+        "description": "ACSC - Recent Alerts",
+        "type": "rss"
+    },
+    {
+        "url": "https://www.cyber.gov.au/rss/threats",
+        "title": "ASD's ACSC - Threats RSS",
+        "description": "ACSC - Recent Threats",
+        "type": "rss"
+    },
+    {
+        "url": "https://www.securityweek.com/feed/",
+        "title": "SecurityWeek",
+        "description": "Cybersecurity News, Insights &#38; Analysis",
+        "type": "rss"
+    },
+    {
+        "url": "https://www.securityweek.com/feed/atom/",
+        "title": "SecurityWeek",
+        "description": "Cybersecurity News, Insights &#38; Analysis",
+        "type": "atom"
+    },
+    {
+        "url": "https://thecyberwire.com/feeds/rss.xml",
+        "title": "The CyberWire",
+        "description": "The CyberWire is an independent voice delivering concise, accessible, and relevant cyber security news to people all across the globe. We separate the signal from the noise.",
+        "type": "rss"
+    },
+    {
+        "url": "https://techcrunch.com/category/security/feed/atom/",
+        "title": "Security News | TechCrunch",
+        "description": "Startup and Technology News",
+        "type": "atom"
+    },
+    {
+        "url": "https://techcrunch.com/category/security/feed/",
+        "title": "Security News | TechCrunch",
+        "description": "Startup and Technology News",
+        "type": "rss"
+    },
+    {
+        "url": "https://www.nist.gov/blogs/cybersecurity-insights/rss.xml",
+        "title": "Cybersecurity Insights",
+        "description": "Cybersecurity Insights blog posts",
+        "type": "rss"
+    },
+    {
+        "url": "https://www.schneier.com/feed/atom/",
+        "title": "Schneier on Security",
+        "description": "",
+        "type": "atom"
+    },
+    {
+        "url": "https://www.theregister.com/security/headlines.atom",
+        "title": "The Register - Security",
+        "description": "Biting the hand that feeds IT — Enterprise Technology News and Analysis",
+        "type": "atom"
+    },
+    {
+        "url": "https://www.troyhunt.com/rss/",
+        "title": "Troy Hunt",
+        "description": "Hi, I'm Troy Hunt, I write this blog, run \"Have I Been Pwned\" and am a Microsoft Regional Director and MVP who travels the world speaking at events and training technology professionals",
+        "type": "rss"
+    },
+    {
+        "url": "https://www.wired.com/category/security/feed/",
+        "title": "Security Latest",
+        "description": "Channel Description",
+        "type": "rss"
+    },
+    {
+        "url": "https://www.wired.com/feed/category/security/latest/rss",
+        "title": "Security Latest",
+        "description": "Channel Description",
+        "type": "rss"
+    }
+]
