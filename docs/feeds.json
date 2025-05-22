@@ -18,6 +18,12 @@
         "type": "rss"
     },
     {
+        "url": "https://eclypsium.com/feed/atom/",
+        "title": "Eclypsium | Supply Chain Security for the Modern Enterprise",
+        "description": "Supply Chain Security for the Modern Enterprise",
+        "type": "atom"
+    },
+    {
         "url": "https://portswigger.net/blog/rss",
         "title": "PortSwigger Blog",
         "description": null,
