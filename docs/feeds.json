@@ -214,5 +214,17 @@
         "title": "News - In category Security Advisories",
         "description": "",
         "type": "rss"
+    },
+    {
+        "url": "https://krebsonsecurity.com/feed/atom/",
+        "title": "Krebs on Security",
+        "description": "In-depth security news and investigation",
+        "type": "atom"
+    },
+    {
+        "url": "https://krebsonsecurity.com/feed/",
+        "title": "Krebs on Security",
+        "description": "In-depth security news and investigation",
+        "type": "rss"
     }
 ]
