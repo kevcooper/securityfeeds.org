@@ -148,5 +148,11 @@
         "title": "Security Latest",
         "description": "Channel Description",
         "type": "rss"
+    },
+    {
+        "url": "https://feeds.feedburner.com/TheHackersNews",
+        "title": "The Hacker News",
+        "description": "Most trusted, widely-read independent cybersecurity news source for everyone; supported by hackers and IT professionals — Send TIPs to admin@thehackernews.com",
+        "type": "rss"
     }
 ]
