@@ -168,9 +168,9 @@
         "type": "rss"
     },
     {
-        "url": "https://hntvaudio.libsyn.com/rss",
-        "title": "Security Weekly News (Audio)",
-        "description": "Concise, bi-weekly reviews of the most significant security stories, including malware, threats, government actions, and other cybersecurity topics. Hosted by Dr. Doug White. Co hosts: Josh Marpet, Aaran Leyland.",
-        "type": "rss"
+        "url": "https://www.scworld.com/feed/topic/latest",
+        "title": "SCM feed for Latest",
+        "description": null,
+        "type": "atom"
     }
 ]
