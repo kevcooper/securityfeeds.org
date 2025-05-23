@@ -138,15 +138,9 @@
         "type": "rss"
     },
     {
-        "url": "https://www.wired.com/category/security/feed/",
-        "title": "Security Latest",
-        "description": "Channel Description",
-        "type": "rss"
-    },
-    {
-        "url": "https://www.wired.com/feed/category/security/latest/rss",
-        "title": "Security Latest",
-        "description": "Channel Description",
+        "url": "https://www.wired.com/feed/category/security/rss",
+        "title": "Security News: Cybersecurity, Hacks, Privacy, National Security",
+        "description": "Get in-depth security coverage at WIRED including cyber, IT and national security news.",
         "type": "rss"
     },
     {
