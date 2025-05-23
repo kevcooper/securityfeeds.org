@@ -316,5 +316,29 @@
         "title": "Security | Microsoft Azure Blog | Microsoft Azure",
         "description": "Get the latest Azure news, updates, and announcements from the Azure blog. From product updates to hot topics, hear from the Azure experts.",
         "type": "atom"
+    },
+    {
+        "url": "https://blog.google/technology/safety-security/rss/",
+        "title": "Safety &amp; Security",
+        "description": "Safety &amp; Security",
+        "type": "rss"
+    },
+    {
+        "url": "https://bughunters.google.com/feed/en",
+        "title": "Security Engineering Blog",
+        "description": "Google&#39;s goal is to make it easier for ourselves, and the rest of the world, to ship secure products. Our blog is intended to share ways in which we make the Internet, as a whole, safer, and what that journey entails.",
+        "type": "rss"
+    },
+    {
+        "url": "https://feeds.feedburner.com/threatintelligence/pvexyqv7v0v",
+        "title": "Threat Intelligence",
+        "description": "Threat Intelligence",
+        "type": "rss"
+    },
+    {
+        "url": "https://blog.google/threat-analysis-group/rss/",
+        "title": "Threat Analysis Group (TAG)",
+        "description": "Threat Analysis Group (TAG)",
+        "type": "rss"
     }
 ]
