@@ -340,5 +340,47 @@
         "title": "Threat Analysis Group (TAG)",
         "description": "Threat Analysis Group (TAG)",
         "type": "rss"
+    },
+    {
+        "url": "https://www.drupal.org/security/rss.xml",
+        "title": "Security advisories",
+        "description": "",
+        "type": "rss"
+    },
+    {
+        "url": "https://wordpress.org/news/category/security/feed/",
+        "title": "Security &#8211; WordPress News",
+        "description": "The latest news about WordPress and the WordPress community",
+        "type": "rss"
+    },
+    {
+        "url": "https://wordpress.org/news/category/security/feed/atom/",
+        "title": "Security &#8211; WordPress News",
+        "description": "The latest news about WordPress and the WordPress community",
+        "type": "atom"
+    },
+    {
+        "url": "https://www.wordfence.com/vulnerability-advisories/feed/atom/",
+        "title": "Comments on Vulnerability Advisories",
+        "description": "WordPress Security Plugin",
+        "type": "atom"
+    },
+    {
+        "url": "https://www.wordfence.com/vulnerability-advisories/feed/",
+        "title": "Comments on: Vulnerability Advisories",
+        "description": "WordPress Security Plugin",
+        "type": "rss"
+    },
+    {
+        "url": "https://www.wordfence.com/blog/feed/",
+        "title": "Blog - Wordfence",
+        "description": "WordPress Security Plugin",
+        "type": "rss"
+    },
+    {
+        "url": "https://www.wordfence.com/blog/feed/atom/",
+        "title": "Blog - Wordfence",
+        "description": "WordPress Security Plugin",
+        "type": "atom"
     }
 ]
