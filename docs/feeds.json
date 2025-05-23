@@ -388,5 +388,11 @@
         "title": "Blog - Wordfence",
         "description": "WordPress Security Plugin",
         "type": "atom"
+    },
+    {
+        "url": "https://www.crowdstrike.com/en-us/blog/feed",
+        "title": "Blog",
+        "description": "",
+        "type": "rss"
     }
 ]
