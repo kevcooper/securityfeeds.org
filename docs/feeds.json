@@ -520,5 +520,35 @@
         "title": "Microsoft Security Response Center",
         "description": "Recent content on Microsoft Security Response Center",
         "type": "rss"
+    },
+    {
+        "url": "https://www.cisecurity.org/feed/advisories",
+        "title": "Cyber Security Advisories - MS-ISAC",
+        "description": "The latest MS-ISAC cyber security advisories. Feed provided by Center for Internet Security.",
+        "type": "rss"
+    },
+    {
+        "url": "https://www.csoonline.com/feed/",
+        "title": "M&S says it will respond to April cyberattack by accelerating digital transformation plans | CSO Online",
+        "description": "Security at the speed of business",
+        "type": "rss"
+    },
+    {
+        "url": "https://blog.pcisecuritystandards.org/rss.xml",
+        "title": "PCI Perspectives",
+        "description": "Insights, information and practical resources to help your organization protect payment data.",
+        "type": "rss"
+    },
+    {
+        "url": "https://www.cisecurity.org/feed/blog",
+        "title": "Blog Feed - Center for Internet Security",
+        "description": "Industry news, product updates, videos, infographics, and more from CIS.",
+        "type": "rss"
+    },
+    {
+        "url": "https://www.cybereason.com/blog/rss.xml",
+        "title": "Blog",
+        "description": "Get the latest research, expert insights, and security industry news.",
+        "type": "rss"
     }
 ]
