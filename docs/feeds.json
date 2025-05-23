@@ -478,5 +478,47 @@
         "title": "Marcus Hutchins",
         "description": "",
         "type": "rss"
+    },
+    {
+        "url": "https://msrc.microsoft.com/blog/categories/microsoft-threat-hunting/feed",
+        "title": "Microsoft Threat Hunting on Microsoft Security Response Center",
+        "description": "Recent content in Microsoft Threat Hunting on Microsoft Security Response Center",
+        "type": "rss"
+    },
+    {
+        "url": "https://msrc.microsoft.com/blog/categories/bug-bounty-programs/feed",
+        "title": "Bug Bounty Programs on Microsoft Security Response Center",
+        "description": "Recent content in Bug Bounty Programs on Microsoft Security Response Center",
+        "type": "rss"
+    },
+    {
+        "url": "https://msrc.microsoft.com/blog/categories/bluehat/feed",
+        "title": "BlueHat on Microsoft Security Response Center",
+        "description": "Recent content in BlueHat on Microsoft Security Response Center",
+        "type": "rss"
+    },
+    {
+        "url": "https://msrc.microsoft.com/blog/categories/security-research-defense/feed",
+        "title": "Security Research &amp; Defense on Microsoft Security Response Center",
+        "description": "Recent content in Security Research &amp; Defense on Microsoft Security Response Center",
+        "type": "rss"
+    },
+    {
+        "url": "https://msrc.microsoft.com/blog/categories/msrc/feed",
+        "title": "MSRC on Microsoft Security Response Center",
+        "description": "Recent content in MSRC on Microsoft Security Response Center",
+        "type": "rss"
+    },
+    {
+        "url": "https://msrc.microsoft.com/blog/categories/japan-security-team/feed",
+        "title": "Japan Security Team on Microsoft Security Response Center",
+        "description": "Recent content in Japan Security Team on Microsoft Security Response Center",
+        "type": "rss"
+    },
+    {
+        "url": "https://msrc.microsoft.com/blog/feed",
+        "title": "Microsoft Security Response Center",
+        "description": "Recent content on Microsoft Security Response Center",
+        "type": "rss"
     }
 ]
