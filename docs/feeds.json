@@ -348,6 +348,12 @@
         "type": "rss"
     },
     {
+        "url": "https://www.drupal.org/security/psa/rss.xml",
+        "title": "Security public service announcements",
+        "description": "",
+        "type": "rss"
+    },
+    {
         "url": "https://wordpress.org/news/category/security/feed/",
         "title": "Security &#8211; WordPress News",
         "description": "The latest news about WordPress and the WordPress community",
