@@ -244,5 +244,53 @@
         "title": "Cisco Security Advisory",
         "description": "",
         "type": "rss"
+    },
+    {
+        "url": "https://unit42.paloaltonetworks.com/feed/",
+        "title": "Unit 42",
+        "description": "Palo Alto Networks",
+        "type": "rss"
+    },
+    {
+        "url": "https://unit42.paloaltonetworks.com/feed/atom/",
+        "title": "Unit 42",
+        "description": "Palo Alto Networks",
+        "type": "atom"
+    },
+    {
+        "url": "https://www.paloaltonetworks.com/blog/feed/atom/",
+        "title": "Palo Alto Networks Blog",
+        "description": "Palo Alto Networks Blog",
+        "type": "atom"
+    },
+    {
+        "url": "https://www.paloaltonetworks.com/blog/feed/",
+        "title": "Palo Alto Networks Blog",
+        "description": "Palo Alto Networks Blog",
+        "type": "rss"
+    },
+    {
+        "url": "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss",
+        "title": "Project Zero",
+        "description": "News and updates from the Project Zero team at Google",
+        "type": "rss"
+    },
+    {
+        "url": "https://googleprojectzero.blogspot.com/feeds/posts/default",
+        "title": "Project Zero",
+        "description": "News and updates from the Project Zero team at Google",
+        "type": "atom"
+    },
+    {
+        "url": "https://aws.amazon.com/blogs/security/feed/",
+        "title": "AWS Security Blog",
+        "description": "The latest AWS security, identity, and compliance launches, announcements, and how-to posts.",
+        "type": "rss"
+    },
+    {
+        "url": "https://aws.amazon.com/security/security-bulletins/rss/feed/",
+        "title": "Latest Bulletins",
+        "description": "Read our latest security bulletins here.",
+        "type": "rss"
     }
 ]
