@@ -412,5 +412,71 @@
         "title": "Open Source Security Foundation",
         "description": "Linux Foundation Projects",
         "type": "rss"
+    },
+    {
+        "url": "https://blog.qualys.com/qualys-insights/feed/atom",
+        "title": "Qualys Insights &#8211; Qualys Security Blog",
+        "description": "Expert network security guidance and news",
+        "type": "atom"
+    },
+    {
+        "url": "https://blog.qualys.com/feed/atom",
+        "title": "Qualys Security Blog",
+        "description": "Expert network security guidance and news",
+        "type": "atom"
+    },
+    {
+        "url": "https://www.tenable.com/security/research/feed",
+        "title": "Tenable Research Advisories",
+        "description": null,
+        "type": "rss"
+    },
+    {
+        "url": "https://www.tenable.com/blog/cyber-exposure-alerts/feed",
+        "title": "Cyber Exposure Alerts",
+        "description": null,
+        "type": "rss"
+    },
+    {
+        "url": "https://blog.qualys.com/qualys-insights/feed",
+        "title": "Qualys Insights &#8211; Qualys Security Blog",
+        "description": "Expert network security guidance and news",
+        "type": "rss"
+    },
+    {
+        "url": "https://blog.qualys.com/product-tech/feed",
+        "title": "Product and Tech &#8211; Qualys Security Blog",
+        "description": "Expert network security guidance and news",
+        "type": "rss"
+    },
+    {
+        "url": "https://blog.qualys.com/vulnerabilities-threat-research/feed",
+        "title": "Vulnerabilities and Threat Research &#8211; Qualys Security Blog",
+        "description": "Expert network security guidance and news",
+        "type": "rss"
+    },
+    {
+        "url": "https://grahamcluley.com/feed/atom/",
+        "title": "Graham Cluley",
+        "description": "Cybersecurity and AI keynote speaker",
+        "type": "atom"
+    },
+    {
+        "url": "https://grahamcluley.com/feed/",
+        "title": "Graham Cluley",
+        "description": "Cybersecurity and AI keynote speaker",
+        "type": "rss"
+    },
+    {
+        "url": "https://www.tenable.com/blog/feed",
+        "title": "Tenable Blog",
+        "description": null,
+        "type": "rss"
+    },
+    {
+        "url": "http://marcushutchins.com/feed.xml",
+        "title": "Marcus Hutchins",
+        "description": "",
+        "type": "rss"
     }
 ]
