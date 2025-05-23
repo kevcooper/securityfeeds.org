@@ -232,5 +232,23 @@
         "title": "Krebs on Security",
         "description": "In-depth security news and investigation",
         "type": "rss"
+    },
+    {
+        "url": "https://blogs.cisco.com/security/feed/atom",
+        "title": "Security @ Cisco Blogs",
+        "description": "",
+        "type": "atom"
+    },
+    {
+        "url": "https://blogs.cisco.com/security/feed",
+        "title": "Security @ Cisco Blogs",
+        "description": "",
+        "type": "rss"
+    },
+    {
+        "url": "https://sec.cloudapps.cisco.com/security/center/psirtrss20/CiscoSecurityAdvisory.xml",
+        "title": "Cisco Security Advisory",
+        "description": "",
+        "type": "rss"
     }
 ]
