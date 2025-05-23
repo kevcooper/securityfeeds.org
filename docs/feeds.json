@@ -292,5 +292,29 @@
         "title": "Latest Bulletins",
         "description": "Read our latest security bulletins here.",
         "type": "rss"
+    },
+    {
+        "url": "https://www.microsoft.com/en-us/security/blog/feed/",
+        "title": "Microsoft Security Blog",
+        "description": "Expert coverage of cybersecurity topics",
+        "type": "rss"
+    },
+    {
+        "url": "https://azure.microsoft.com/en-us/blog/category/security/feed/",
+        "title": "Security | Microsoft Azure Blog | Microsoft Azure",
+        "description": "Get the latest Azure news, updates, and announcements from the Azure blog. From product updates to hot topics, hear from the Azure experts.",
+        "type": "rss"
+    },
+    {
+        "url": "https://www.microsoft.com/en-us/security/blog/feed/atom/",
+        "title": "Microsoft Security Blog",
+        "description": "Expert coverage of cybersecurity topics",
+        "type": "atom"
+    },
+    {
+        "url": "https://azure.microsoft.com/en-us/blog/category/security/feed/atom/",
+        "title": "Security | Microsoft Azure Blog | Microsoft Azure",
+        "description": "Get the latest Azure news, updates, and announcements from the Azure blog. From product updates to hot topics, hear from the Azure experts.",
+        "type": "atom"
     }
 ]
