@@ -394,5 +394,23 @@
         "title": "Blog",
         "description": "",
         "type": "rss"
+    },
+    {
+        "url": "https://owasp.org/feed.xml",
+        "title": "OWASP",
+        "description": "OWASP Foundation main site repository",
+        "type": "atom"
+    },
+    {
+        "url": "https://openssf.org/feed/atom/",
+        "title": "Open Source Security Foundation",
+        "description": "Linux Foundation Projects",
+        "type": "atom"
+    },
+    {
+        "url": "https://openssf.org/feed/",
+        "title": "Open Source Security Foundation",
+        "description": "Linux Foundation Projects",
+        "type": "rss"
     }
 ]
