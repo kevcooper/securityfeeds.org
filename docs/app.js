@@ -74,6 +74,7 @@
 
         app.appendChild(searchBoxDiv)
         document.body.appendChild(app)
+        document.getElementById("search-box").focus()
     }
 
     if (document.addEventListener) {
