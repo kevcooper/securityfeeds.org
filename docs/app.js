@@ -43,43 +43,23 @@
         app.appendChild(feedsTable)
     }
 
-    let autorun = () => {
-        let app = document.createElement("div")
-        app.id = "app"
+    var feeds = null
 
-        let searchBox = document.createElement("input", { type: "text" })
-        searchBox.id = "search-box"
+    fetch("./feeds.json")
+        .then(x => x.json())
+        .then(ndata => {
+            feeds = ndata
+            drawTable(ndata.sort((a, b) => a.url > b.url))
+        })
 
-        let searchBoxDiv = document.createElement("div")
-        searchBoxDiv.classList += "search"
-        searchBoxDiv.innerHTML = "search: "
-        searchBoxDiv.appendChild(searchBox)
-
-        var data = null
-        var feeds = null
-
-        fetch("./feeds.json")
-            .then(x => x.json())
-            .then(ndata => {
-                feeds = ndata
-                drawTable(ndata.sort((a, b) => a.url > b.url))
-            })
-
-        app.onkeyup = (e) => {
-            let searchTerm = document.getElementById("search-box").value
-            let drawData = feeds.filter(x => JSON.stringify(x).toLowerCase().includes(searchTerm.toLowerCase()))
-            document.getElementById("app-table").remove()
-            drawTable(drawData)
-        }
-
-        app.appendChild(searchBoxDiv)
-        document.body.appendChild(app)
-        document.getElementById("search-box").focus()
+    app.onkeyup = (e) => {
+        let searchTerm = document.getElementById("search-box").value
+        let drawData = feeds.filter(x => JSON.stringify(x).toLowerCase().includes(searchTerm.toLowerCase()))
+        document.getElementById("app-table").remove()
+        drawTable(drawData)
     }
 
-    if (document.addEventListener) {
-        document.addEventListener('DOMContentLoaded', autorun, false)
-    } else {
-        window.onload = autorun
-    }
+    app.appendChild(searchBoxDiv)
+    document.body.appendChild(app)
+    document.getElementById("search-box").focus()
 })();
