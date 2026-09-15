@@ -550,5 +550,35 @@
         "title": "Blog",
         "description": "Get the latest research, expert insights, and security industry news.",
         "type": "rss"
+    },
+    {
+        "url": "https://feeds.feedburner.com/akamai/blog/security",
+        "title": "Akamai Security Blog",
+        "description": "Akamai Security Blog",
+        "type": "rss"
+    },
+    {
+        "url": "https://asec.ahnlab.com/en/feed/",
+        "title": "ASEC",
+        "description": "AhnLab",
+        "type": "rss"
+    },
+    {
+        "url": "https://securitylabs.datadoghq.com/rss/feed.xml",
+        "title": "Datadog Security Labs",
+        "description": "Datadog Security Labs is the place to read blog content about security research and tooling published by Datadog for the community.",
+        "type": "rss"
+    },
+    {
+        "url": "https://www.elastic.co/security-labs/rss/feed.xml",
+        "title": "Elastic Security Labs",
+        "description": "Trusted security news & research from the team at Elastic.",
+        "type": "rss"
+    },
+    {
+        "url": "https://trendlife.com/en-us/blog/feed",
+        "title": "TrendLife Blog",
+        "description": "Read the latest cybersecurity topics you should be aware of from the Trend Micro News. We show you how to identify the fake news and spot scam message. Other topics include home network security, online privacy tips, and how to protect yourself from the network threat.",
+        "type": "rss"
     }
 ]
