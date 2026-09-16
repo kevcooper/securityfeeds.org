@@ -580,5 +580,353 @@
         "title": "TrendLife Blog",
         "description": "Read the latest cybersecurity topics you should be aware of from the Trend Micro News. We show you how to identify the fake news and spot scam message. Other topics include home network security, online privacy tips, and how to protect yourself from the network threat.",
         "type": "rss"
+    },
+    {
+        "url": "https://cert.pl/en/rss.xml",
+        "title": "CERT Polska",
+        "description": "CERT.PL",
+        "type": "rss"
+    },
+    {
+        "url": "https://kb.cert.org/vuls/atomfeed",
+        "title": "CERT Recently Published Vulnerability Notes",
+        "description": "CERT publishes vulnerability advisories called \"Vulnerability Notes.\" Vulnerability Notes include summaries, technical details, remediation information, and lists of affected vendors. Many vulnerability notes are the result of private coordination and disclosure efforts.",
+        "type": "atom"
+    },
+    {
+        "url": "https://cert.europa.eu/publications/security-advisories-rss",
+        "title": "CERT-EU Security Advisories",
+        "description": "RSS feed for the latest 10 publications of type Security Advisories.",
+        "type": "rss"
+    },
+    {
+        "url": "https://ccb.belgium.be/advisories.xml",
+        "title": "CCB Advisories Feed",
+        "description": "CCB Advisories",
+        "type": "rss"
+    },
+    {
+        "url": "https://www.cisa.gov/cybersecurity-advisories/ics-medical-advisories.xml",
+        "title": "ICS Medical Advisories",
+        "description": null,
+        "type": "rss"
+    },
+    {
+        "url": "https://www.first.org/blog/rss.xml",
+        "title": "FIRST Blog",
+        "description": "Learn more about the Forum of Incident Response and Security Teams through regular blog posts about our organization, events and other programs. Questions or comments? Contact first-press@first.org.",
+        "type": "rss"
+    },
+    {
+        "url": "https://blogs.jpcert.or.jp/en/atom.xml",
+        "title": "JPCERT/CC Blog (English)",
+        "description": "JPCERT Coordination Center official Blog",
+        "type": "atom"
+    },
+    {
+        "url": "https://api.msrc.microsoft.com/update-guide/rss",
+        "title": "MSRC Security Update Guide",
+        "description": null,
+        "type": "rss"
+    },
+    {
+        "url": "https://www.ncsc.gov.uk/api/1/services/v1/all-rss-feed.xml",
+        "title": "NCSC All Feed",
+        "description": "This includes feeds from report, guidance and blog-post",
+        "type": "rss"
+    },
+    {
+        "url": "https://advisories.ncsc.nl/rss/advisories",
+        "title": "NCSC-NL Security Advisories",
+        "description": "Security Advisories van het NCSC",
+        "type": "rss"
+    },
+    {
+        "url": "https://digital.nhs.uk/feed/cyber-alerts-feed.xml",
+        "title": "NHS Digital - Cyber Alert Feed",
+        "description": null,
+        "type": "rss"
+    },
+    {
+        "url": "https://isc.sans.edu/rssfeed_full.xml",
+        "title": "SANS Internet Storm Center, InfoCON: green",
+        "description": "SANS Internet Storm Center - Cooperative Cyber Security Monitor",
+        "type": "rss"
+    },
+    {
+        "url": "https://cert-portal.siemens.com/productcert/rss/advisories.atom",
+        "title": "Siemens ProductCERT Security Advisories",
+        "description": "Siemens Security Advisories",
+        "type": "atom"
+    },
+    {
+        "url": "https://ubuntu.com/security/notices/rss.xml",
+        "title": "Ubuntu security notices",
+        "description": "Recent content on Ubuntu security notices",
+        "type": "rss"
+    },
+    {
+        "url": "https://www.zerodayinitiative.com/rss/published",
+        "title": "ZDI: Published Advisories",
+        "description": "The following is a list of publicly disclosed vulnerabilities discovered by Zero Day Initiative researchers. While the affected vendor is working on a patch for these vulnerabilities, TrendAI customers are protected from exploitation by security filters delivered ahead of public disclosure. All security vulnerabilities that are acquired by the Zero Day Initiative are handled according to the ZDI Disclosure Policy.",
+        "type": "rss"
+    },
+    {
+        "url": "https://www.zerodayinitiative.com/rss/upcoming",
+        "title": "ZDI: Upcoming Advisories",
+        "description": "The following is a list of vulnerabilities discovered by Zero Day Initiative researchers that are yet to be publicly disclosed. The affected vendor has been contacted on the specified date and while they work on a patch for these vulnerabilities, TrendAI customers are protected from exploitation by IPS filters delivered ahead of public disclosure. Once the affected vendor patches the vulnerability, we publish an accompanying security advisory which describes the issue, including links to the vendor's fixes.",
+        "type": "rss"
+    },
+    {
+        "url": "https://abuse.ch/feed.xml",
+        "title": "abuse.ch | IT-Security Blog",
+        "description": "abuse.ch | IT-Security Blog",
+        "type": "rss"
+    },
+    {
+        "url": "https://www.bitdefender.com/nuxt/api/en-us/rss/labs",
+        "title": "Bitdefender Labs",
+        "description": "Daily source of cyber-threat information. Established 2001.",
+        "type": "rss"
+    },
+    {
+        "url": "https://research.checkpoint.com/feed",
+        "title": "Check Point Research",
+        "description": "Latest Research by our Team",
+        "type": "rss"
+    },
+    {
+        "url": "https://blog.talosintelligence.com/rss",
+        "title": "Cisco Talos Blog",
+        "description": "Talos intelligence and world-class threat research team better protects you and your organization against known and emerging cybersecurity threats.",
+        "type": "rss"
+    },
+    {
+        "url": "https://blog.didierstevens.com/feed",
+        "title": "Didier Stevens",
+        "description": "(blog &#039;DidierStevens)",
+        "type": "rss"
+    },
+    {
+        "url": "https://blog.exodusintel.com/feed",
+        "title": "Exodus Intelligence",
+        "description": null,
+        "type": "rss"
+    },
+    {
+        "url": "https://www.group-ib.com/feed/blogfeed/",
+        "title": "Group-IB Blog",
+        "description": "Exponentiate your cybersecurity expertise and stay up to date with the latest cyber threat trends covered in our blog.",
+        "type": "rss"
+    },
+    {
+        "url": "https://www.malware-traffic-analysis.net/blog-entries.rss",
+        "title": "Malware-Traffic-Analysis.net - Blog Entries",
+        "description": "A malware traffic analysis blog",
+        "type": "rss"
+    },
+    {
+        "url": "https://www.malwarebytes.com/blog/feed/index.xml",
+        "title": "Malwarebytes",
+        "description": "Cyber Security Software & Anti-Malware",
+        "type": "rss"
+    },
+    {
+        "url": "https://malwaretech.com/feed",
+        "title": "MalwareTech",
+        "description": "A mix of in-depth nuanced takes on current events and highly technical original research by Marcus Hutchins. I cover a wide array of topics such as vulnerability research, threat intelligence, national security, reverse engineering, and Windows internals.",
+        "type": "rss"
+    },
+    {
+        "url": "https://research.openanalysis.net/feed.xml",
+        "title": "OALABS Research",
+        "description": null,
+        "type": "atom"
+    },
+    {
+        "url": "https://www.proofpoint.com/us/threat-insight-blog.xml",
+        "title": "Proofpoint Threat Insight",
+        "description": "Browse Threat Insight information, resources, news, and blog posts. Gain the insights you need to prevent cybersecurity threats and protect your organization.",
+        "type": "rss"
+    },
+    {
+        "url": "https://citizenlab.ca/feed",
+        "title": "The Citizen Lab",
+        "description": "University of Toronto",
+        "type": "rss"
+    },
+    {
+        "url": "https://www.greynoise.io/blog/rss.xml",
+        "title": "The GreyNoise Blog",
+        "description": "Get the latest tips and stories on improving information security.",
+        "type": "rss"
+    },
+    {
+        "url": "https://cloudblog.withgoogle.com/topics/threat-intelligence/rss",
+        "title": "Threat Intelligence",
+        "description": "Threat Intelligence",
+        "type": "rss"
+    },
+    {
+        "url": "https://blog.virustotal.com/feeds/posts/default",
+        "title": "VirusTotal Blog",
+        "description": null,
+        "type": "atom"
+    },
+    {
+        "url": "https://www.volexity.com/feed/",
+        "title": "Volexity",
+        "description": "No &#039;Ware To Hide",
+        "type": "rss"
+    },
+    {
+        "url": "https://www.welivesecurity.com/en/rss/feed",
+        "title": "WeLiveSecurity",
+        "description": "WeLiveSecurity",
+        "type": "rss"
+    },
+    {
+        "url": "https://www.zscaler.com/blogs/feeds/security-research",
+        "title": "Zscaler Security Research",
+        "description": "Latest news and views from the leading voices in cloud security and secure digital transformation.",
+        "type": "rss"
+    },
+    {
+        "url": "https://0xdf.gitlab.io/feed.xml",
+        "title": "0xdf hacks stuff",
+        "description": "CTF solutions, malware analysis, home lab development",
+        "type": "atom"
+    },
+    {
+        "url": "https://blog.doyensec.com/atom.xml",
+        "title": "Doyensec's Blog",
+        "description": null,
+        "type": "atom"
+    },
+    {
+        "url": "https://www.exploit-db.com/rss.xml",
+        "title": "Exploit-DB.com RSS Feed",
+        "description": "The Exploit Database - Exploits, Shellcode, 0days, Remote Exploits, Local Exploits, Web Apps, Vulnerability Reports, Security Articles, Tutorials and more.",
+        "type": "rss"
+    },
+    {
+        "url": "https://www.pentestpartners.com/feed",
+        "title": "Pen Test Partners",
+        "description": null,
+        "type": "rss"
+    },
+    {
+        "url": "https://blog.quarkslab.com/feeds/all.rss.xml",
+        "title": "Quarkslab's blog",
+        "description": null,
+        "type": "atom"
+    },
+    {
+        "url": "https://rhinosecuritylabs.com/feed",
+        "title": "Rhino Security Labs",
+        "description": null,
+        "type": "rss"
+    },
+    {
+        "url": "https://specterops.io/feed",
+        "title": "SpecterOps",
+        "description": null,
+        "type": "rss"
+    },
+    {
+        "url": "https://starlabs.sg/index.xml",
+        "title": "STAR Labs",
+        "description": "Recent content in Home on STAR Labs",
+        "type": "rss"
+    },
+    {
+        "url": "https://blog.trailofbits.com/index.xml",
+        "title": "The Trail of Bits Blog",
+        "description": "Recent content on The Trail of Bits Blog",
+        "type": "rss"
+    },
+    {
+        "url": "https://www.vulncheck.com/feed/blog/atom.xml",
+        "title": "VulnCheck Blog",
+        "description": "Blog posts we have recently written or historic blog posts we have written in the past.",
+        "type": "atom"
+    },
+    {
+        "url": "https://labs.watchtowr.com/rss",
+        "title": "watchTowr Labs",
+        "description": "watchTowr Labs is the epicentre of offensive security expertise at watchTowr - where research, innovation, and real attacker insight power our Preemptive Exposure Management technology.",
+        "type": "rss"
+    },
+    {
+        "url": "https://www.zerodayinitiative.com/blog?format=rss",
+        "title": "Zero Day Initiative - Blog",
+        "description": null,
+        "type": "rss"
+    },
+    {
+        "url": "https://alas.aws.amazon.com/AL2/alas.rss",
+        "title": "Amazon Linux 2 Security Bulletins",
+        "description": "Amazon Linux AMI Security Bulletins",
+        "type": "rss"
+    },
+    {
+        "url": "https://alas.aws.amazon.com/AL2023/alas.rss",
+        "title": "Amazon Linux 2023 Security Bulletins",
+        "description": "Amazon Linux 2023 Security Bulletins",
+        "type": "rss"
+    },
+    {
+        "url": "https://www.oracle.com/ocom/groups/public/@otn/documents/webcontent/rss-otn-sec.xml",
+        "title": "Oracle Security Alerts",
+        "description": "Security Alerts Issued by Oracle",
+        "type": "rss"
+    },
+    {
+        "url": "https://security.gentoo.org/glsa/feed.rss",
+        "title": "Gentoo Linux security advisories",
+        "description": "This feed contains new Gentoo Linux security advisories. Contact security@gentoo.org with questions.",
+        "type": "rss"
+    },
+    {
+        "url": "https://security.archlinux.org/advisory/feed.atom",
+        "title": "Arch Linux Security Advisories",
+        "description": "Feed containing the last published Arch Linux Security Advisories",
+        "type": "atom"
+    },
+    {
+        "url": "https://vuxml.freebsd.org/freebsd/rss.xml",
+        "title": "FreeBSD VuXML",
+        "description": "Documenting security issues in FreeBSD and the FreeBSD Ports Collection",
+        "type": "rss"
+    },
+    {
+        "url": "https://www.drupal.org/security/contrib/rss.xml",
+        "title": "Security advisories for contributed projects",
+        "description": "",
+        "type": "rss"
+    },
+    {
+        "url": "https://nodejs.org/en/feed/vulnerability.xml",
+        "title": "Node.js Blog: Vulnerability Reports",
+        "description": "",
+        "type": "rss"
+    },
+    {
+        "url": "https://spring.io/security.atom",
+        "title": "Spring Security Advisories",
+        "description": "Level up your Java code and explore what Spring can do for you.",
+        "type": "rss"
+    },
+    {
+        "url": "https://discuss.rubyonrails.org/c/security-announcements/9.rss",
+        "title": "Security Announcements - Ruby on Rails Discussions",
+        "description": "Topics in the &#39;Security Announcements&#39; category In the category we will post all the security advisories for the Rails framework.",
+        "type": "rss"
+    },
+    {
+        "url": "https://docs.gitlab.com/releases/patch-releases.xml",
+        "title": "GitLab Patch Releases",
+        "description": null,
+        "type": "atom"
     }
 ]
