@@ -48,3 +48,35 @@ th {
 a {
     color: #d1d1d1;
 }
+
+table {
+    width: 100%;
+}
+
+td {
+    overflow-wrap: anywhere;
+}
+
+@media (max-width: 600px) {
+    body {
+        margin-left: 1rem;
+        margin-right: 1rem;
+    }
+
+    tr:first-child {
+        display: none;
+    }
+
+    tr, td {
+        display: block;
+    }
+
+    td {
+        padding: 0.1rem 0;
+    }
+
+    tr {
+        padding: 0.75rem 0;
+        border-bottom: 1px solid #555;
+    }
+}
