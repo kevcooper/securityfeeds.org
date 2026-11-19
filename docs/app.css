@@ -57,6 +57,10 @@ td {
     overflow-wrap: anywhere;
 }
 
+td.mirror {
+    white-space: nowrap;
+}
+
 @media (max-width: 600px) {
     body {
         margin-left: 1rem;
