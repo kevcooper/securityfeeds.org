@@ -57,6 +57,19 @@ td {
     overflow-wrap: anywhere;
 }
 
+td.mirror {
+    white-space: nowrap;
+}
+
+td.mirror-stale, td.mirror-missing {
+    color: #8a8a8a;
+    cursor: help;
+}
+
+td.mirror-stale a {
+    color: #8a8a8a;
+}
+
 @media (max-width: 600px) {
     body {
         margin-left: 1rem;

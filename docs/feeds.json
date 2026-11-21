@@ -96,9 +96,9 @@
         "type": "atom"
     },
     {
-        "url": "https://thecyberwire.com/feeds/rss.xml",
-        "title": "The CyberWire",
-        "description": "The CyberWire is an independent voice delivering concise, accessible, and relevant cyber security news to people all across the globe. We separate the signal from the noise.",
+        "url": "https://thecyberwire.com/index.rss",
+        "title": "N2K CyberWire",
+        "description": "N2K CyberWire is an independent voice delivering concise, accessible, and relevant cybersecurity news briefings and cybersecurity podcasts to people all across the globe.",
         "type": "rss"
     },
     {
@@ -129,7 +129,7 @@
         "url": "https://www.theregister.com/security/headlines.atom",
         "title": "The Register - Security",
         "description": "Biting the hand that feeds IT — Enterprise Technology News and Analysis",
-        "type": "atom"
+        "type": "rss"
     },
     {
         "url": "https://www.troyhunt.com/rss/",
@@ -196,30 +196,6 @@
         "title": "Data and computer security | The Guardian",
         "description": "Latest news and features from theguardian.com, the world's leading liberal voice",
         "type": "rss"
-    },
-    {
-        "url": "https://www.ncsc.govt.nz/news/category/cyber-threat-reports/rss",
-        "title": "News - In category Cyber Threat Reports",
-        "description": "",
-        "type": "rss"
-    },
-    {
-        "url": "https://www.ncsc.govt.nz/news/category/cyber-security-alerts/rss",
-        "title": "News - In category Cyber Security Alerts",
-        "description": "",
-        "type": "rss"
-    },
-    {
-        "url": "https://www.ncsc.govt.nz/news/category/security-advisories/rss",
-        "title": "News - In category Security Advisories",
-        "description": "",
-        "type": "rss"
-    },
-    {
-        "url": "https://krebsonsecurity.com/feed/atom/",
-        "title": "Krebs on Security",
-        "description": "In-depth security news and investigation",
-        "type": "atom"
     },
     {
         "url": "https://krebsonsecurity.com/feed/",
@@ -336,9 +312,9 @@
         "type": "rss"
     },
     {
-        "url": "https://blog.google/threat-analysis-group/rss/",
-        "title": "Threat Analysis Group (TAG)",
-        "description": "Threat Analysis Group (TAG)",
+        "url": "https://blog.google/security/rss/",
+        "title": "Google Blog - Security",
+        "description": "Security posts from The Keyword (blog.google/threat-analysis-group now redirects here)",
         "type": "rss"
     },
     {
@@ -394,12 +370,6 @@
         "title": "Blog",
         "description": "",
         "type": "rss"
-    },
-    {
-        "url": "https://owasp.org/feed.xml",
-        "title": "OWASP",
-        "description": "OWASP Foundation main site repository",
-        "type": "atom"
     },
     {
         "url": "https://openssf.org/feed/atom/",
@@ -480,48 +450,6 @@
         "type": "rss"
     },
     {
-        "url": "https://msrc.microsoft.com/blog/categories/microsoft-threat-hunting/feed",
-        "title": "Microsoft Threat Hunting on Microsoft Security Response Center",
-        "description": "Recent content in Microsoft Threat Hunting on Microsoft Security Response Center",
-        "type": "rss"
-    },
-    {
-        "url": "https://msrc.microsoft.com/blog/categories/bug-bounty-programs/feed",
-        "title": "Bug Bounty Programs on Microsoft Security Response Center",
-        "description": "Recent content in Bug Bounty Programs on Microsoft Security Response Center",
-        "type": "rss"
-    },
-    {
-        "url": "https://msrc.microsoft.com/blog/categories/bluehat/feed",
-        "title": "BlueHat on Microsoft Security Response Center",
-        "description": "Recent content in BlueHat on Microsoft Security Response Center",
-        "type": "rss"
-    },
-    {
-        "url": "https://msrc.microsoft.com/blog/categories/security-research-defense/feed",
-        "title": "Security Research &amp; Defense on Microsoft Security Response Center",
-        "description": "Recent content in Security Research &amp; Defense on Microsoft Security Response Center",
-        "type": "rss"
-    },
-    {
-        "url": "https://msrc.microsoft.com/blog/categories/msrc/feed",
-        "title": "MSRC on Microsoft Security Response Center",
-        "description": "Recent content in MSRC on Microsoft Security Response Center",
-        "type": "rss"
-    },
-    {
-        "url": "https://msrc.microsoft.com/blog/categories/japan-security-team/feed",
-        "title": "Japan Security Team on Microsoft Security Response Center",
-        "description": "Recent content in Japan Security Team on Microsoft Security Response Center",
-        "type": "rss"
-    },
-    {
-        "url": "https://msrc.microsoft.com/blog/feed",
-        "title": "Microsoft Security Response Center",
-        "description": "Recent content on Microsoft Security Response Center",
-        "type": "rss"
-    },
-    {
         "url": "https://www.cisecurity.org/feed/advisories",
         "title": "Cyber Security Advisories - MS-ISAC",
         "description": "The latest MS-ISAC cyber security advisories. Feed provided by Center for Internet Security.",
@@ -546,9 +474,9 @@
         "type": "rss"
     },
     {
-        "url": "https://www.cybereason.com/blog/rss.xml",
-        "title": "Blog",
-        "description": "Get the latest research, expert insights, and security industry news.",
+        "url": "https://www.levelblue.com/blogs/levelblue-blog/rss.xml",
+        "title": "LevelBlue Blog",
+        "description": "Discover expert insights on the latest cybersecurity trends, challenges, and best practices shaping the industry today.",
         "type": "rss"
     },
     {
@@ -588,7 +516,7 @@
         "type": "rss"
     },
     {
-        "url": "https://kb.cert.org/vuls/atomfeed",
+        "url": "https://kb.cert.org/vuls/atomfeed/",
         "title": "CERT Recently Published Vulnerability Notes",
         "description": "CERT publishes vulnerability advisories called \"Vulnerability Notes.\" Vulnerability Notes include summaries, technical details, remediation information, and lists of affected vendors. Many vulnerability notes are the result of private coordination and disclosure efforts.",
         "type": "atom"
