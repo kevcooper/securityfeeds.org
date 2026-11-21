@@ -34,7 +34,10 @@ assert all(u in URLS for u in [U_NOT_LISTED_JS, U_OK, U_STALE, U_STALE_OLD, U_ER
 
 FULL = {
     "mirror_base": "https://securityfeeds.org/mirror",
-    "fetchers": {"worker": {"ok": 3}, "droplet": {"ok": 4}},
+    "fetchers": [
+        {"id": "worker", "updated_at": "2026-11-21T04:00:00Z", "stale": False, "ok": 3, "total": 9},
+        {"id": "droplet", "updated_at": "2026-11-21T03:55:00Z", "stale": False, "ok": 4, "total": 9},
+    ],
     "feeds": [
         {"source": U_OK, "mirror": "/mirror/cyberwire-ok", "status": "ok", "served_by": "droplet",
          "fetchers": {"worker": {"status": "error"}, "droplet": {"status": "ok"}}},
